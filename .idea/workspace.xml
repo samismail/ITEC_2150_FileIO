@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3959933-b5bc-499c-9e45-c0f5680f1ae0" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginning2/ReadFileAscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Beginning2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeatherAnalysis/weather.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WritingFile/BufferWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WritingFile/BufferedWriterDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WritingFile/PrintWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WritingFile/WriteToFileDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginning2/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beginning2/ReadFileAscendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginning2/ReadFileAscendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Beginning2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beginning2/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +40,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/sismail1/IdeaProjects/ITEC_2150_FileIO/src/WeatherAnalysis"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src\WeatherAnalysis" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src\Beginning2" />
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src\Beginning1" />
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseRecursion">
+  <component name="RunManager" selected="Application.ReadFileAscendingOrder">
+    <configuration name="ReadFileAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beginning2.ReadFileAscendingOrder" />
+      <module name="ITEC_2150_FileIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Beginning2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beginning1.ReverseRecursion" />
       <module name="ITEC_2150_FileIO" />
@@ -74,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadFileAscendingOrder" />
         <item itemvalue="Application.ReverseRecursion" />
         <item itemvalue="Application.ReverseRetrieve" />
       </list>
@@ -109,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712160513731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1712160905941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712160905942</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

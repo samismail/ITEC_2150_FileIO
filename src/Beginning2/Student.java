@@ -2,9 +2,9 @@ package Beginning2;
 
 public class Student {
     private String name;
-    private double score;
+    private int score;
 
-    public Student(String name, double score) {
+    public Student(String name, int score) {
         this.name = name;
         this.score = score;
     }
@@ -17,11 +17,11 @@ public class Student {
         this.name = name;
     }
 
-    public double getScore() {
+    public int getScore() {
         return score;
     }
 
-    public void setScore(double score) {
+    public void setScore(int score) {
         this.score = score;
     }
 }
