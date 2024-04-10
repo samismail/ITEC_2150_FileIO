@@ -1,0 +1,5 @@
+///Output\\\ 
+Sum: 30.000000
+Average: 5.00
+Highest:9.0
+Lowest: 0.0 
