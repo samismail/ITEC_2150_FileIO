@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3959933-b5bc-499c-9e45-c0f5680f1ae0" name="Changes" comment="4/8 in class">
-      <change afterPath="$PROJECT_DIR$/report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computing/DataComputation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computing/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WritingFile/WithoutAutoClosure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WritingFile/WithoutAutoClosurePrintWrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Computing/DataComputation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Computing/DataComputation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,20 @@
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Weather">
+  <component name="RunManager" selected="Application.DataComputation">
+    <configuration name="DataComputation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Computing.DataComputation" />
+      <module name="ITEC_2150_FileIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Computing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadFileAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Beginning2.ReadFileAscendingOrder" />
       <module name="ITEC_2150_FileIO" />
@@ -110,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataComputation" />
         <item itemvalue="Application.Weather" />
         <item itemvalue="Application.ReadFileAscendingOrder" />
         <item itemvalue="Application.ReverseRecursion" />
@@ -168,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712591113195</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4/8 in class">
+      <created>1712761204249</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712761204249</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
