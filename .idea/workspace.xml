@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3959933-b5bc-499c-9e45-c0f5680f1ae0" name="Changes" comment="4/5 in class">
-      <change afterPath="$PROJECT_DIR$/src/WeatherAnalysis/Weather.java" afterDir="false" />
+    <list default="true" id="d3959933-b5bc-499c-9e45-c0f5680f1ae0" name="Changes" comment="4/8 in class">
+      <change afterPath="$PROJECT_DIR$/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Computing/DataComputation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Computing/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WritingFile/WithoutAutoClosure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WritingFile/WithoutAutoClosurePrintWrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WeatherAnalysis/weather.txt" beforeDir="false" afterPath="$PROJECT_DIR$/weather.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WritingFile/BufferedWriterDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WritingFile/BufferedWriterDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WritingFile/PrintWriterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WritingFile/PrintWriterDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src\WeatherAnalysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO" />
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src\Beginning2" />
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src\Beginning1" />
       <recent name="C:\Users\sismail1\IdeaProjects\ITEC_2150_FileIO\src" />
@@ -98,7 +100,7 @@
       <module name="ITEC_2150_FileIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WeatherAnalysis.*" />
+          <option name="PATTERN" value="WritingFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712333684751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4/8 in class">
+      <created>1712591113195</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712591113195</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="4/5 in class" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/5 in class" />
+    <MESSAGE value="4/8 in class" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/8 in class" />
   </component>
 </project>
